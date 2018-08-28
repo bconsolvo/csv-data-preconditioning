@@ -1,6 +1,6 @@
 # shell_csv_manipulation
 
-The csv_cuts.py is a Python 3 script that is used to 
+The csv_cuts.py is a Python 3 script that I wrote that is used to 
 1) look at .CSV data files with columns of numbers
 2) eliminate certains rows in those data based on certain criteria in the data
 3) output new .CSV files without the eliminated rows
