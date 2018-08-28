@@ -1,6 +1,6 @@
 #!/bin/env python3
 
-###---usage: cuts.py <name.csv>
+###---usage: csv_cuts.py <name.csv>
 
 import os, sys
 import datetime as dt
